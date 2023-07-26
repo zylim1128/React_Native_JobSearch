@@ -1,4 +1,7 @@
 // to import the API
+// and hide the API-key here
+// does not really use this since it does not work perfectly
+
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 

@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "React_Native",
-    "slug": "React_Native"
+    "slug": "React_Native",
+    "android": {
+      "package": "com.anonymous.React_Native"
+    }
   }
 }
